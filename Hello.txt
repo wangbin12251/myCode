@@ -1,3 +1,7 @@
 csxdfsfsdfsfsdf
 12465464646
 sfsfsfewgfsfgvsd
+HELLOJAVA
+public static void method(){
+	sout;
+}
